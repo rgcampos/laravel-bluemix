@@ -2,7 +2,8 @@
 Código fonte de uma aplicação demo utilizando Laravel para ser executada no [IBM BlueMix](https://www.bluemix.net).
 
 # Pré Requisito
-Criar sua conta [bluemix](https://bluemix.net).
+* Criar sua conta [bluemix](https://bluemix.net).
+* Instalar o [Composer Package Manager](https://getcomposer.org)
 
 # Informações
 * [Artigo](https://www.ibm.com/blogs/bluemix/2014/06/getting-started-laravel-bluemix/) de referência.
