@@ -1,5 +1,5 @@
 # Bluemix Laravel Demo App (5.4.* usando PHP 7.x)
-Código fonte de uma aplicação demo utilizando Laravel para ser executada no [IBM BlueMix](https://www.bluemix.net) Laravel simples que pode ser executado no IBM Bluemix. Você pode ver a publicação do blog que explica a execução do aplicativo no Bluemix aqui.
+Código fonte de uma aplicação demo utilizando Laravel para ser executada no [IBM BlueMix](https://www.bluemix.net).
 
 # Pré Requisito
 Criar sua conta [bluemix](https://bluemix.net).
